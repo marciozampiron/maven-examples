@@ -5,7 +5,7 @@
     <artifactId>code-coverage-jacoco</artifactId>
     <packaging>jar</packaging>
     <version>0.1</version>
-    <name>Code Coverage with Jacoco</name>
+    <name>Code Coverage with Jacoco !!</name>
     <description>
         This example application demonstrates how you can create code coverage
         reports for both unit and integration tests by using the Jacoco Maven plugin.
